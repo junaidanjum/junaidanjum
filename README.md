@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @junaidanjum
+- 👋 Hi, I’m Junaid Anjum. I am a Civil-cum-Software Engineer.
 - 👀 I’m interested in reading, code, and reading code.
 - 🌱 I’m currently learning React JS.
 - 📫 How to reach me: junaidanjum@live.com
