@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junaid Anjum. I am a Civil-cum-Software Engineer.
 - 👀 I’m interested in reading, code, and reading code.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently working as Front End Developer writing in React JS, React Native, Next JS, and [any-other].js.
 - 📫 How to reach me: junaidanjum@live.com
 
 <!---
