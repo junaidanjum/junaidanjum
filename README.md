@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Junaid Anjum. I am a Software-cum-Structural Engineer.
-- 👀 I’m interested in reading, code, and reading code.
-- 🌱 I’m currently working as Front End Developer writing in React JS, React Native, Next JS, and [any-other].js.
-- 📫 How to reach me: https://junaidanjum.com / junaidanjum@live.com
+Hey! I'm __Junaid__, from Kashmir, and I love building *software*, even though I formally studied building buildings. When I’m not *coding*, I’m usually enjoying a good book, scribbling down some thoughts, or getting caught up in a football match, with a cup of coffee that’s never too far away.
+
+To know more, visit my website: [junaidanjum.com](https://junaidanjum.com)
 
 <!---
 junaidanjum/junaidanjum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
