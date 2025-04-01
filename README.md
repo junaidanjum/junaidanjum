@@ -1,6 +1,6 @@
-Hey! I'm __Junaid__, from Kashmir, and I love building *software*, even though I formally studied building buildings. When I’m not *coding*, I’m usually enjoying a good book, scribbling down some thoughts, or getting caught up in a football match, with a cup of coffee that’s never too far away.
+Frontend designer and developer crafting simple, minimal, and intuitive interfaces. Focused on aesthetics, usability, and seamless interactions.
 
-To know more, visit my website: [junaidanjum.com](https://junaidanjum.com)
+To know more, visit: [junaidanjum.com](https://junaidanjum.com)
 
 <!---
 junaidanjum/junaidanjum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
